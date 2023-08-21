@@ -1,5 +1,5 @@
 #clock app
-#ellie aria
+
 def jam(d1,d2):
     result={}
     result["h"]=d1["h"]+d2["h"]
